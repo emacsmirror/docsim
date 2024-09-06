@@ -1,7 +1,7 @@
 ;;; docsim.el --- Search and compare notes with a local search engine
 
-;; Author: Harry R. Schwartz <hello@harryrschwartz.com>
-;; Maintainer: Harry R. Schwartz <hello@harryrschwartz.com>
+;; Author: Robin Schwartz <hello@robinschwartz.me>
+;; Maintainer: Robin Schwartz <hello@robinschwartz.me>
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24.4") (org "8.0"))
 ;; Homepage: https://github.com/hrs/docsim.el
